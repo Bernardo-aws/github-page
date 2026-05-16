@@ -1,4 +1,4 @@
-#projetos-pessoais
+projetos-pessoais
 -----------------------------
 Experiência com logistica e caixa de supermercado
 Empresa: empreendimento familiar
