@@ -1,3 +1,3 @@
-#Projetos-Academicos
+Projetos-Academicos
 -------------------------------
 Curriculo Profissional;
